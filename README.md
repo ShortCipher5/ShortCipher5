@@ -2,8 +2,6 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shortcipher5&label=Profile%20views&color=0e75b6&style=flat" alt="shortcipher5" />
-  <br/>
   <a href="https://twitter.com/shortcipher5" target="blank">
     <img src="https://img.shields.io/badge/-Twitter-clean?style=social&logo=twitter" height=25></a>
   </a>
